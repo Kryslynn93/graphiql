@@ -109,13 +109,13 @@
     "cosmiconfig": "8.2.0",
     "cosmiconfig-toml-loader": "^1.0.0",
     "dotenv": "10.0.0",
-    "graphql": "^16.4.0",
+    "graphql": "^16.8.1",
     "graphql-config": "5.0.2",
     "graphql-tag": "2.12.6",
     "graphql-ws": "^5.5.5",
     "nullthrows": "^1.0.0",
     "svelte": "^4.0.0",
     "svelte2tsx": "^0.6.16",
-    "ws": "8.8.1"
+    "ws": "8.17.1"
   }
 }
